@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, View, Text } from "react-native";
+import { Text } from "react-native";
 import CenterView from "src/components/CenterView";
 
 /*
